@@ -1,0 +1,6 @@
+[submodule "tatpapers-core"]
+	path = tatpapers-core
+	url = git@github.com:nicootto/tatpapers-core.git
+[submodule "tatpapers-web"]
+	path = tatpapers-web
+	url = git@github.com:nicootto/tatpapers-web.git
